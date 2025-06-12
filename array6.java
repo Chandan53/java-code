@@ -13,7 +13,7 @@ public class array6 {
         if(!found){
             System.out.println("not present in the array");
         }
-        
+    
     }
     public static void main(String args[]){
         String name[]={"radha","krishna","vishnu","ram","chandan","kundan","anu","minu"};
